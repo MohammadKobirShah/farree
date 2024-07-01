@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="BANGLA ENT.",CHANNEL I HD [BD]
-https://www.youtube.com/embed/8tvpdpYqSwg?si=r51WMNie1xlpdGw6
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png" group-title="BANGLA ENT.",NTV [BD]
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="BANGLA ENT.",RTV HD [BD]
@@ -28,7 +28,7 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="BANGLA ENT.",SA TV HD [BD]
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA ENT.",NAGORIK TV HD [BD]
-http://45.249.187.238:8081/hls/new16.m3u8
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=Q-X4AlTdN_M3iE_qYAfzjg&expires=1719887602&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA ENT.",ATN NEWS HD [BD]
 http://30.30.30.30:8088/203/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA ENT.",INDEPENDENT TV [BD]
@@ -50,12 +50,12 @@ http://s1.shortdns.xyz/live/STAFUCDK5X/U4p42Uqgb0/60594.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ENT.",Zee Bangla SD [IN] (1)
 http://30.30.30.30:8088/301/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA ENT.",Zee Bangla HD [IN] (1)
-http://s1.shortdns.xyz/live/STAFUCDK5X/U4p42Uqgb0/60597.ts
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60597
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA ENT.",Zee Bangla HD [IN] (2)
 http://30.30.30.30:8088/301/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA ENT.",Colors Bangla SD
 http://103.205.133.50/hls/etvbangla.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA ENT.",Colors Bangla HD (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLA ENT.",Colors Bangla Cinema HD (1)
 https://fmrx.short.gy/Colors_Bangla_Cinema/Join@AbidDthOfficial/ABID_DTH.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA ENT.",Colors Bangla HD (2)
 http://opplex.tv:8080/live/umera1234/2345678/245895.ts
